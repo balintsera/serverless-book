@@ -1,0 +1,2 @@
+# ignore ffprobe binary -- see book for instructions on how to get it
+ffprobe

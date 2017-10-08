@@ -24,7 +24,7 @@ exports.handler = function(event, context, callback){
     var outputKey = sourceKey.split('.')[0];
 
     var params = {
-        PipelineId: '1451470066051-jscnci',
+        PipelineId: '1495578027693-yc7yu6',
         Input: {
             Key: sourceKey
         },
